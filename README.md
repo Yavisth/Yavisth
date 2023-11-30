@@ -10,6 +10,10 @@ I like learning stuff. I'll try my best to update my profile with everything I l
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yavisth/Yavisth/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yavisth/Yavisth/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 <!--
 **Yavisth/Yavisth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
